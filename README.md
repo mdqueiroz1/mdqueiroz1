@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hello stranger! I'm Matheus :)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdqueiroz1//)](https://www.linkedin.com/in/mdqueiroz1/)
 
+I'm currently learning 
 <!--
 **matheusdq/matheusdq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
